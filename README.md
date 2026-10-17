@@ -12,7 +12,7 @@ Projet de recherche encadré portant sur l'étude de la programmation HPC sur GP
 ## Environnement & outils
 
 Pour compiler et exécuter le code, l'environnement **AMD ROCm** est requis.
-* **Version de ROCm :** [Indiquer la version, ex: ROCm 6.0+]
+* **Version de ROCm :** ROCm v3
 * **Compilateur :** `hipcc` / `g++`
 * **Bibliothèques requises :** 
   * rocBLAS
