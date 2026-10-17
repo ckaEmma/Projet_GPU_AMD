@@ -1,4 +1,4 @@
-# Projet GPU AMD
+# Projet PPN : Programmation GPU AMD, benchmark et analyse de performances 
 
 Projet de recherche encadré portant sur l'étude de la programmation HPC sur GPU AMD, le développement de benchmarks synthétiques et l'évaluation critique des outils de profiling.
 
