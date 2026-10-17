@@ -19,7 +19,7 @@ Pour compiler et exécuter le code, l'environnement **AMD ROCm** est requis.
   * OpenMP
   
 ## Auteurs
-Mehdi ABDENNOUR
-Emma CHAKMA
-Kocouvi Klaus KOUDRI
-Fredy PONTURAT
+* Mehdi ABDENNOUR
+* Emma CHAKMA
+* Kocouvi Klaus KOUDRI
+* Fredy PONTURAT
