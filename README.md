@@ -23,3 +23,6 @@ Pour compiler et exécuter le code, l'environnement **AMD ROCm** est requis.
 * Emma CHAKMA
 * Kocouvi Klaus KOUDRI
 * Fredy PONTURAT
+
+## Encadrant
+* Lucas NETO
